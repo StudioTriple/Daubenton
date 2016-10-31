@@ -4,23 +4,23 @@
   <unicode hex="00D6"/>
   <outline>
     <contour>
-      <point x="582" y="822" type="line"/>
-      <point x="521" y="883" type="line"/>
-      <point x="521" y="883" type="line"/>
-      <point x="460" y="822" type="line"/>
-      <point x="460" y="822" type="line"/>
-      <point x="521" y="761" type="line"/>
-      <point x="521" y="761" type="line"/>
+      <point x="582" y="821" type="line"/>
+      <point x="521" y="882" type="line"/>
+      <point x="521" y="882" type="line"/>
+      <point x="460" y="821" type="line"/>
+      <point x="460" y="821" type="line"/>
+      <point x="521" y="760" type="line"/>
+      <point x="521" y="760" type="line"/>
     </contour>
     <contour>
-      <point x="402" y="822" type="line"/>
-      <point x="341" y="883" type="line"/>
-      <point x="341" y="883" type="line"/>
-      <point x="280" y="822" type="line"/>
-      <point x="280" y="822" type="line"/>
-      <point x="341" y="761" type="line"/>
-      <point x="341" y="761" type="line"/>
+      <point x="402" y="821" type="line"/>
+      <point x="341" y="882" type="line"/>
+      <point x="341" y="882" type="line"/>
+      <point x="280" y="821" type="line"/>
+      <point x="280" y="821" type="line"/>
+      <point x="341" y="760" type="line"/>
+      <point x="341" y="760" type="line"/>
     </contour>
-    <component base="O" xOffset="20"/>
+    <component base="O" xOffset="20" yOffset="-1"/>
   </outline>
 </glyph>

@@ -72,9 +72,9 @@
 			<key>name</key>
 			<string>courbes hautes</string>
 			<key>x</key>
-			<integer>-50</integer>
+			<integer>75</integer>
 			<key>y</key>
-			<integer>515</integer>
+			<integer>465</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -82,6 +82,14 @@
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>background</string>
+		<string>mask</string>
+	</array>
+	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>

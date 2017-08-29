@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="1">
+  <advance width="411"/>
+  <unicode hex="0029"/>
+  <outline>
+    <component base="parenleft" xScale="-0.9999999999999998" yScale="-0.9999999999999998" xOffset="411" yOffset="712"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4809</real>
+        <real>1.0</real>
+        <real>0.7016</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

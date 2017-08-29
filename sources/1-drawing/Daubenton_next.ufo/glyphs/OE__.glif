@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="897"/>
+  <outline>
+    <contour>
+      <point x="449.97" y="899" type="line"/>
+      <point x="294.97" y="744" type="line"/>
+      <point x="367.97" y="744" type="line"/>
+      <point x="449.97" y="844" type="line"/>
+      <point x="532.97" y="744" type="line"/>
+      <point x="604.97" y="744" type="line"/>
+    </contour>
+    <component base="O" xOffset="20" yOffset="-1"/>
+  </outline>
+</glyph>

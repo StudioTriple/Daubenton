@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="604"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="194" y="66" type="line"/>
+      <point x="194" y="356" type="line"/>
+      <point x="297" y="356" type="line"/>
+      <point x="326" y="327" type="line"/>
+      <point x="326" y="429" type="line"/>
+      <point x="297" y="400" type="line"/>
+      <point x="194" y="400" type="line"/>
+      <point x="194" y="646" type="line"/>
+      <point x="439" y="646" type="line"/>
+      <point x="496" y="589" type="line"/>
+      <point x="486" y="712" type="line"/>
+      <point x="57" y="712" type="line"/>
+      <point x="118" y="651" type="line"/>
+      <point x="118" y="61" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="593" y="127" type="line"/>
+      <point x="532" y="66" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="742" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="593" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="325" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
